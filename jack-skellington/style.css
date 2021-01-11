@@ -132,7 +132,38 @@ body {
   8px 7px rgba(255, 255, 255, 1),
   9px 7px rgba(255, 255, 255, 1),
   10px 7px rgb(0, 0, 0),  /* smile pixel */
-  11px 7px rgba(255, 255, 255, 0.9)
-
-  ;
+  11px 7px rgba(255, 255, 255, 0.9),
+  /* line 8 */
+  -3px 8px rgba(255, 255, 255, 0.9),
+  -2px 8px rgba(255, 255, 255, 1),
+  -1px 8px rgba(255, 255, 255, 1),
+  0 8px rgba(255, 255, 255, 1),
+  /* nose */
+  1px 8px rgba(255, 255, 255, 0.8),
+  2px 8px rgba(255, 255, 255, 0.8),
+  3px 8px rgba(255, 255, 255, 1),
+  4px 8px rgba(255, 255, 255, 1),
+  5px 8px rgba(255, 255, 255, 1),
+  6px 8px rgba(255, 255, 255, 1),
+  7px 8px rgba(255, 255, 255, 1),
+  8px 8px rgba(255, 255, 255, 1),
+  9px 8px rgba(255, 255, 255, 1),
+  10px 8px rgb(0, 0, 0),  /* smile pixel */
+  11px 8px rgba(255, 255, 255, 0.9),
+  /* line 9 */
+  -3px 9px rgba(255, 255, 255, 0.9),
+  -2px 9px rgba(255, 255, 255, 1),
+  -1px 9px rgba(255, 255, 255, 1),
+  0 9px rgba(255, 255, 255, 1),
+  1px 9px rgba(255, 255, 255, 1),
+  2px 9px rgba(255, 255, 255, 1),
+  3px 9px rgba(255, 255, 255, 1),
+  4px 9px rgba(255, 255, 255, 1),
+  5px 9px rgba(255, 255, 255, 1),
+  6px 9px rgba(255, 255, 255, 1),
+  7px 9px rgba(255, 255, 255, 1),
+  8px 9px rgba(255, 255, 255, 1),
+  9px 9px rgba(0, 0, 0), /* smile pixel */
+  10px 9px rgb(255, 255, 255, 1),
+  11px 9px rgba(255, 255, 255, 0.9);
 }
