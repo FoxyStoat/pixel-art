@@ -1,19 +1,43 @@
-.jack {
-  position: absolute;
-  top: 20%;
-  left: 42%;
-  width: 1px;
-  height: 1px;
-  transform: scale(20);
-  -webkit-transform: scale(20);
-  -moz-transform: scale(20);
-  -ms-transform: scale(20);
-  -o-transform: scale(20);
+html, body {
+	height: 100%;
 }
 
-p {
-  position: absolute;
-  bottom: 0;
-  right: 10px;
-  color: #555;
+body {
+  background: #000;
+	display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.jack {
+  position: relative;
+  top: 50px;
+  width: 1px;
+  height: 1px;
+  transform: scale(15);
+  -webkit-transform: scale(15);
+  -moz-transform: scale(15);
+  -ms-transform: scale(15);
+  -o-transform: scale(15);
+  box-shadow: 1px 0 rgba(220, 221, 216, 1),
+  2px 0 rgba(220, 221, 216, 1),
+  3px 0 rgba(220, 221, 216, 1),
+  4px 0 rgba(220, 221, 216, 1),
+  5px 0 rgba(220, 221, 216, 1),
+  6px 0 rgba(220, 221, 216, 1),
+  7px 0 rgba(220, 221, 216, 1),
+  /* line 2 */
+  -1px 1px rgba(220, 221, 216, 1),
+  0 1px rgba(254, 254, 253, 1),
+  1px 1px rgba(254, 254, 253, 1),
+  2px 1px rgba(254, 254, 253, 1),
+  3px 1px rgba(254, 254, 253, 1),
+  4px 1px rgba(254, 254, 253, 1),
+  5px 1px rgba(254, 254, 253, 1),
+  6px 1px rgba(254, 254, 253, 1),
+  7px 1px rgba(254, 254, 253, 1),
+  8px 1px rgba(220, 221, 216, 1),
+  /* line 3 */
+  -2px 2px rgba(185, 184, 184, 1),
+  -1px 2px rgb(139, 139, 139);
 }
