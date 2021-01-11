@@ -403,7 +403,7 @@ body {
 
 .heart {
   position: relative;
-	margin-top: 15%;
+	top: 50px;
   width: 1px;
   height: 1px;
   transform: scale(15);
