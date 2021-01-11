@@ -1,0 +1,19 @@
+.jack {
+  position: absolute;
+  top: 20%;
+  left: 42%;
+  width: 1px;
+  height: 1px;
+  transform: scale(20);
+  -webkit-transform: scale(20);
+  -moz-transform: scale(20);
+  -ms-transform: scale(20);
+  -o-transform: scale(20);
+}
+
+p {
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+  color: #555;
+}
