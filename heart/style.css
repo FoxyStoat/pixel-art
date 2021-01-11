@@ -1,5 +1,11 @@
+html, body {
+	height: 100%;
+}
+
 body {
   background-color: #fbd0d0;
+	display: flex;
+	justify-content: center;
 }
 
 @keyframes heart {
@@ -396,24 +402,17 @@ body {
 }
 
 .heart {
-  position: absolute;
-  top: 20%;
-  left: 42%;
+  position: relative;
+	margin-top: 15%;
   width: 1px;
   height: 1px;
-  transform: scale(20);
-  -webkit-transform: scale(20);
-  -moz-transform: scale(20);
-  -ms-transform: scale(20);
-  -o-transform: scale(20);
+  transform: scale(15);
+  -webkit-transform: scale(15);
+  -moz-transform: scale(15);
+  -ms-transform: scale(15);
+  -o-transform: scale(15);
   /*animation*/
-  animation: heart 1300ms steps(1) infinite;
-  -webkit-animation: heart 1300ms steps(1) infinite;
+  animation: heart 1300ms steps(1,end) infinite;
+  -webkit-animation: heart 1300ms steps(1,end) infinite;
 }
 
-p {
-  position: absolute;
-  bottom: 0;
-  right: 10px;
-  color: #555;
-}
