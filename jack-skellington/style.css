@@ -14,13 +14,13 @@ body {
   top: 50px;
   width: 1px;
   height: 1px;
-  transform: scale(10);
-  -webkit-transform: scale(15);
-  -moz-transform: scale(15);
-  -ms-transform: scale(15);
-  -o-transform: scale(15);
+  transform: scale(4);
+  -webkit-transform: scale(4);
+  -moz-transform: scale(4);
+  -ms-transform: scale(4);
+  -o-transform: scale(4);
   background-color: rgba(255, 255, 255, 0.9);
-  /* line zero */
+  /*linezero*/
   box-shadow: 1px 0 rgba(255, 255, 255, 0.9),
   2px 0 rgba(255, 255, 255, 0.9),
   3px 0 rgba(255, 255, 255, 0.9),
@@ -81,7 +81,6 @@ body {
   7px 4px rgba(255, 255, 255, 0.9),
   8px 4px rgba(255, 255, 255, 1),
   9px 4px rgba(255, 255, 255, 1),
-  /* smile pixel */
   10px 4px rgb(0, 0, 0),
   11px 4px rgba(255, 255, 255, 0.9),
   /* line 5 */
@@ -98,7 +97,7 @@ body {
   7px 5px rgba(255, 255, 255, 0.9),
   8px 5px rgba(255, 255, 255, 1),
   9px 5px rgba(255, 255, 255, 1),
-  10px 5px rgb(0, 0, 0),  /* smile pixel */
+  10px 5px rgb(0, 0, 0),
   11px 5px rgba(255, 255, 255, 0.9),
   /* line 6 */
   -3px 6px rgba(255, 255, 255, 0.9),
@@ -114,7 +113,7 @@ body {
   7px 6px rgba(255, 255, 255, 0.9),
   8px 6px rgba(255, 255, 255, 1),
   9px 6px rgba(255, 255, 255, 1),
-  10px 6px rgb(0, 0, 0),  /* smile pixel */
+  10px 6px rgb(0, 0, 0),
   11px 6px rgba(255, 255, 255, 0.9),
   /* line 7 */
   -3px 7px rgba(255, 255, 255, 0.9),
@@ -123,15 +122,15 @@ body {
   0 7px rgba(255, 255, 255, 1),
   /* nose */
   1px 7px rgba(255, 255, 255, 0.7),
-  2px 7px rgba(255, 255, 255, 0.7),
-  3px 7px rgba(255, 255, 255, 1),
+  2px 7px rgba(255, 255, 255, 1),
+  3px 7px rgba(255, 255, 255, 0.7),
   4px 7px rgba(255, 255, 255, 1),
   5px 7px rgba(255, 255, 255, 0.9),
   6px 7px rgba(255, 255, 255, 0.9),
   7px 7px rgba(255, 255, 255, 0.9),
   8px 7px rgba(255, 255, 255, 1),
   9px 7px rgba(255, 255, 255, 1),
-  10px 7px rgb(0, 0, 0),  /* smile pixel */
+  10px 7px rgb(0, 0, 0),
   11px 7px rgba(255, 255, 255, 0.9),
   /* line 8 */
   -3px 8px rgba(255, 255, 255, 0.9),
@@ -140,15 +139,15 @@ body {
   0 8px rgba(255, 255, 255, 1),
   /* nose */
   1px 8px rgba(255, 255, 255, 0.8),
-  2px 8px rgba(255, 255, 255, 0.8),
-  3px 8px rgba(255, 255, 255, 1),
+  2px 8px rgba(255, 255, 255, 1),
+  3px 8px rgba(255, 255, 255, 0.8),
   4px 8px rgba(255, 255, 255, 1),
   5px 8px rgba(255, 255, 255, 1),
   6px 8px rgba(255, 255, 255, 1),
   7px 8px rgba(255, 255, 255, 1),
   8px 8px rgba(255, 255, 255, 1),
   9px 8px rgba(255, 255, 255, 1),
-  10px 8px rgb(0, 0, 0),  /* smile pixel */
+  10px 8px rgb(0, 0, 0),
   11px 8px rgba(255, 255, 255, 0.9),
   /* line 9 */
   -3px 9px rgba(255, 255, 255, 0.9),
@@ -163,7 +162,46 @@ body {
   6px 9px rgba(255, 255, 255, 1),
   7px 9px rgba(255, 255, 255, 1),
   8px 9px rgba(255, 255, 255, 1),
-  9px 9px rgba(0, 0, 0), /* smile pixel */
+  9px 9px rgba(0, 0, 0),
   10px 9px rgb(255, 255, 255, 1),
-  11px 9px rgba(255, 255, 255, 0.9);
+  11px 9px rgba(255, 255, 255, 0.9),
+  /* line 10 */
+  -3px 10px rgba(255, 255, 255, 0.9),
+  -2px 10px rgb(0, 0, 0),
+  -1px 10px rgba(255, 255, 255, 1),
+  0 10px rgba(255, 255, 255, 1),
+  1px 10px rgba(255, 255, 255, 1),
+  2px 10px rgba(255, 255, 255, 1),
+  3px 10px rgba(255, 255, 255, 1),
+  4px 10px rgba(255, 255, 255, 1),
+  5px 10px rgba(255, 255, 255, 1),
+  6px 10px rgba(255, 255, 255, 1),
+  7px 10px rgba(255, 255, 255, 1),
+  8px 10px rgb(0, 0, 0),
+  9px 10px rgba(255, 255, 255, 1),
+  10px 10px rgb(255, 255, 255, 0.9),
+  /* line 11 */
+  -2px 11px rgba(255, 255, 255, 0.9),
+  -1px 11px rgb(0, 0, 0),
+  0 11px rgba(255, 255, 255, 1),
+  1px 11px rgba(255, 255, 255, 1),
+  2px 11px rgba(255, 255, 255, 1),
+  3px 11px rgba(255, 255, 255, 1),
+  4px 11px rgba(255, 255, 255, 1),
+  5px 11px rgba(255, 255, 255, 1),
+  6px 11px rgba(255, 255, 255, 1),
+  7px 11px rgb(0, 0, 0),
+  8px 11px rgb(255, 255, 255, 1),
+  9px 11px rgba(255, 255, 255, 0.9),
+  /* line 12 */
+  -1px 12px rgba(255, 255, 255, 0.9),
+  0px 12px rgb(0, 0, 0),
+  1px 12px rgba(255, 255, 255, 1),
+  2px 12px rgba(255, 255, 255, 1),
+  3px 12px rgba(255, 255, 255, 1),
+  4px 12px rgba(255, 255, 255, 1),
+  5px 12px rgba(255, 255, 255, 1),
+  6px 12px rgb(0, 0, 0),
+  7px 12px rgba(255, 255, 255, 1),
+  8px 12px rgb(255, 255, 255, 0.9);
 }
