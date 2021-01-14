@@ -256,6 +256,8 @@ body {
   -3px 18px rgb(0, 0, 0),
   -4px 18px rgb(0, 0, 0),
 
+
+
   9px 18px rgb(0, 0, 0),
   10px 18px rgb(0, 0, 0),
   11px 18px rgb(0, 0, 0),
@@ -269,6 +271,11 @@ body {
   -2px 19px rgb(0, 0, 0),
   -3px 19px rgb(0, 0, 0),
 
+  -6px 19px rgb(0, 0, 0),
+  -7px 19px rgb(0, 0, 0),
+  -8px 19px rgb(0, 0, 0),
+  -9px 19px rgb(0, 0, 0),
+
   0 19px rgb(0, 0, 0),
   2px 19px rgb(0, 0, 0),
   3px 19px rgb(0, 0, 0),
@@ -278,12 +285,22 @@ body {
   8px 19px rgb(0, 0, 0),
   9px 19px rgb(0, 0, 0),
   10px 19px rgb(0, 0, 0),
+
+  13px 19px rgb(0, 0, 0),
+  14px 19px rgb(0, 0, 0),
+  15px 19px rgb(0, 0, 0),
+  16px 19px rgb(0, 0, 0),
+  17px 19px rgb(0, 0, 0),
   /* line 20 bow tie*/
   -1px 20px rgb(0, 0, 0),
   -2px 20px rgb(0, 0, 0),
   -3px 20px rgb(0, 0, 0),
   -4px 20px rgb(0, 0, 0),
   -5px 20px rgb(0, 0, 0),
+
+  -6px 20px rgb(0, 0, 0),
+  -7px 20px rgb(0, 0, 0),
+
   0 20px rgb(0, 0, 0),
   1px 20px rgb(0, 0, 0),
   2px 20px rgb(192, 0, 0),
@@ -296,5 +313,32 @@ body {
   9px 20px rgb(0, 0, 0),
   10px 20px rgb(0, 0, 0),
   11px 20px rgb(0, 0, 0),
-  12px 20px rgb(0, 0, 0);
+  12px 20px rgb(0, 0, 0),
+
+  13px 20px rgb(0, 0, 0),
+  14px 20px rgb(0, 0, 0),
+  15px 20px rgb(0, 0, 0),
+  /* line 21*/
+
+  -1px 21px rgb(0, 0, 0),
+  -2px 21px rgb(0, 0, 0),
+  -3px 21px rgb(0, 0, 0),
+  -4px 21px rgb(0, 0, 0),
+  -5px 21px rgb(0, 0, 0),
+  0 21px rgb(0, 0, 0),
+  1px 21px rgb(0, 0, 0),
+  2px 21px rgb(0, 0, 0),
+  3px 21px rgb(0, 0, 0),
+  4px 21px rgb(0, 0, 0),
+  5px 21px rgb(0, 0, 0),
+  6px 21px rgb(0, 0, 0),
+  7px 21px rgb(0, 0, 0),
+  8px 21px rgb(0, 0, 0),
+  9px 21px rgb(0, 0, 0),
+  10px 21px rgb(0, 0, 0),
+  11px 21px rgb(0, 0, 0),
+  12px 21px rgb(0, 0, 0),
+
+  13px 21px rgb(0, 0, 0),
+  14px 21px rgb(0, 0, 0);
 }
