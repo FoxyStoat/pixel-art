@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-  background: rgb(23, 0, 0);
+  background: rgba(90, 90, 90);
 	display: flex;
   justify-content: center;
   /* align-items: center; */
