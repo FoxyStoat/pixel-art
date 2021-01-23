@@ -550,5 +550,22 @@ body {
   9px 31px rgb(255, 255, 255),
   10px 31px rgb(0, 0, 0),
   11px 31px rgb(0, 0, 0),
-  12px 31px rgb(0, 0, 0);
+  12px 31px rgb(0, 0, 0),
+  /* line 31*/
+  -4px 32px rgb(0, 0, 0),
+  -3px 32px rgb(0, 0, 0),
+  -2px 32px rgb(0, 0, 0),
+  -1px 32px rgb(255, 255, 255),
+  0 32px rgb(255, 255, 255),
+  1px 32px rgb(255, 255, 255),
+  2px 32px rgb(255, 255, 255),
+  3px 32px rgb(255, 255, 255),
+  4px 32px rgb(255, 255, 255),
+  5px 32px rgb(255, 255, 255),
+  6px 32px rgb(255, 255, 255),
+  7px 32px rgb(255, 255, 255),
+  8px 32px rgb(255, 255, 255),
+  9px 32px rgb(0, 0, 0),
+  10px 32px rgb(0, 0, 0),
+  11px 32px rgb(0, 0, 0);
 }
