@@ -14,11 +14,11 @@ body {
   top: 50px;
   width: 1px;
   height: 1px;
-  transform: scale(4);
-  -webkit-transform: scale(4);
-  -moz-transform: scale(4);
-  -ms-transform: scale(4);
-  -o-transform: scale(4);
+  transform: scale(3);
+  -webkit-transform: scale(3);
+  -moz-transform: scale(3);
+  -ms-transform: scale(3);
+  -o-transform: scale(3);
   background-color: rgb(255, 255, 255);
   /*line zero face*/
   box-shadow: 1px 0 rgb(255, 255, 255),
@@ -622,5 +622,10 @@ body {
   3px 37px rgb(0, 0, 0),
   4px 37px rgb(0, 0, 0),
   5px 37px rgb(0, 0, 0),
-  6px 37px rgb(0, 0, 0);
+  6px 37px rgb(0, 0, 0),
+  /* line 38*/
+  2px 38px rgb(0, 0, 0),
+  3px 38px rgb(0, 0, 0),
+  4px 38px rgb(0, 0, 0),
+  5px 38px rgb(0, 0, 0);
 }
