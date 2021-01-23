@@ -595,5 +595,16 @@ body {
   6px 34px rgb(255, 255, 255),
   7px 34px rgb(0, 0, 0),
   8px 34px rgb(0, 0, 0),
-  9px 34px rgb(0, 0, 0);
+  9px 34px rgb(0, 0, 0),
+  /* line 35*/
+  -1px 35px rgb(0, 0, 0),
+  0 35px rgb(0, 0, 0),
+  1px 35px rgb(0, 0, 0),
+  2px 35px rgb(255, 255, 255),
+  3px 35px rgb(255, 255, 255),
+  4px 35px rgb(255, 255, 255),
+  5px 35px rgb(255, 255, 255),
+  6px 35px rgb(0, 0, 0),
+  7px 35px rgb(0, 0, 0),
+  8px 35px rgb(0, 0, 0);
 }
