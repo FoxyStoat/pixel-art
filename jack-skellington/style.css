@@ -569,7 +569,6 @@ body {
   10px 32px rgb(0, 0, 0),
   11px 32px rgb(0, 0, 0),
   /* line 33*/
-  /* -4px 33px rgb(0, 0, 0), */
   -3px 33px rgb(0, 0, 0),
   -2px 33px rgb(0, 0, 0),
   -1px 33px rgb(0, 0, 0),
@@ -583,5 +582,18 @@ body {
   7px 33px rgb(255, 255, 255),
   8px 33px rgb(0, 0, 0),
   9px 33px rgb(0, 0, 0),
-  10px 33px rgb(0, 0, 0);
+  10px 33px rgb(0, 0, 0),
+  /* line 34*/
+  -2px 34px rgb(0, 0, 0),
+  -1px 34px rgb(0, 0, 0),
+  0 34px rgb(0, 0, 0),
+  1px 34px rgb(255, 255, 255),
+  2px 34px rgb(255, 255, 255),
+  3px 34px rgb(255, 255, 255),
+  4px 34px rgb(255, 255, 255),
+  5px 34px rgb(255, 255, 255),
+  6px 34px rgb(255, 255, 255),
+  7px 34px rgb(0, 0, 0),
+  8px 34px rgb(0, 0, 0),
+  9px 34px rgb(0, 0, 0);
 }
