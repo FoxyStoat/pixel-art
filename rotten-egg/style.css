@@ -12,14 +12,14 @@ body {
 .egg {
   position: relative;
   top: 50px;
-	left: -56px;
+	left: -80px;
   width: 1px;
   height: 1px;
-  transform: scale(7);
-  -webkit-transform: scale(7);
-  -moz-transform: scale(7);
-  -ms-transform: scale(7);
-  -o-transform: scale(7);
+  transform: scale(10);
+  -webkit-transform: scale(10);
+  -moz-transform: scale(10);
+  -ms-transform: scale(10);
+  -o-transform: scale(10);
 /*   background-color: #9badb7; */
   box-shadow: 4px 0 #242828,
 		5px 0 #242828,
@@ -38,62 +38,62 @@ body {
 		1px 2px #242828,
 		2px 2px #3a5043,
 		3px 2px #3a5043,
-		4px 2px #4b692f,
-		5px 2px #4b692f,
-		6px 2px #4b692f,
-		7px 2px #4b692f,
+		4px 2px #446f55,
+		5px 2px #446f55,
+		6px 2px #446f55,
+		7px 2px #446f55,
 		8px 2px #7f9860,
 		9px 2px #7f9860,
 		10px 2px #242828,
 
 		1px 3px #242828,
-		2px 3px #4b692f,
+		2px 3px #446f55,
 		3px 3px #100f13,
-		4px 3px #4b692f,
-		5px 3px #4b692f,
-		6px 3px #4b692f,
-		7px 3px #4b692f,
+		4px 3px #446f55,
+		5px 3px #446f55,
+		6px 3px #446f55,
+		7px 3px #446f55,
 		8px 3px #100f13,
 		9px 3px #7f9860,
 		10px 3px #242828,
 
 		0 4px #242828,
 		1px 4px #3a5043,
-		2px 4px #4b692f,
+		2px 4px #446f55,
 		3px 4px #100f13,
 		4px 4px #7f9860,
-		5px 4px #4b692f,
-		6px 4px #4b692f,
+		5px 4px #446f55,
+		6px 4px #446f55,
 		7px 4px #7f9860,
 		8px 4px #100f13,
-		9px 4px #4b692f,
+		9px 4px #446f55,
 		10px 4px #7f9860,
 		11px 4px #242828,
 
 		0 5px #242828,
 		1px 5px #3a5043,
-		2px 5px #4b692f,
+		2px 5px #446f55,
 		3px 5px #242828,
 		4px 5px #100f13,
-		5px 5px #4b692f,
-		6px 5px #4b692f,
+		5px 5px #446f55,
+		6px 5px #446f55,
 		7px 5px #100f13,
 		8px 5px #242828,
-		9px 5px #4b692f,
+		9px 5px #446f55,
 		10px 5px #7f9860,
 		11px 5px #242828,
 
 		-1px 6px #242828,
 		0 6px #914e3c,
 		1px 6px #242828,
-		2px 6px #4b692f,
+		2px 6px #446f55,
 		3px 6px #242828,
 		4px 6px #242828,
-		5px 6px #4b692f,
-		6px 6px #4b692f,
+		5px 6px #446f55,
+		6px 6px #446f55,
 		7px 6px #242828,
 		8px 6px #242828,
-		9px 6px #4b692f,
+		9px 6px #446f55,
 		10px 6px #242828,
 		11px 6px #914e3c,
 		12px 6px #242828,
@@ -103,12 +103,12 @@ body {
 		0 7px #693540,
 		1px 7px #3a213a,
 		2px 7px #242828,
-		3px 7px #4b692f,
-		4px 7px #4b692f,
-		5px 7px #4b692f,
-		6px 7px #4b692f,
-		7px 7px #4b692f,
-		8px 7px #4b692f,
+		3px 7px #446f55,
+		4px 7px #446f55,
+		5px 7px #446f55,
+		6px 7px #446f55,
+		7px 7px #446f55,
+		8px 7px #446f55,
 		9px 7px #242828,
 		10px 7px #3a213a,
 		11px 7px #693540,
@@ -120,12 +120,12 @@ body {
 		0 8px #3a213a,
 		1px 8px #242828,
 		2px 8px #3a5043,
-		3px 8px #4b692f,
+		3px 8px #446f55,
 		4px 8px #100f13,
 		5px 8px #100f13,
 		6px 8px #100f13,
 		7px 8px #100f13,
-		8px 8px #4b692f,
+		8px 8px #446f55,
 		9px 8px #3a5043,
 		10px 8px #242828,
 		11px 8px #3a213a,
@@ -135,35 +135,35 @@ body {
 		-1px 9px #242828,
 		0 9px #242828,
 		1px 9px #3a5043,
-		2px 9px #4b692f,
+		2px 9px #446f55,
 		3px 9px #100f13,
 		4px 9px #3a5043,
 		5px 9px #3a5043,
 		6px 9px #3a5043,
 		7px 9px #3a5043,
 		8px 9px #100f13,
-		9px 9px #4b692f,
+		9px 9px #446f55,
 		10px 9px #3a5043,
 		11px 9px #242828,
 		12px 9px #242828,
 
 		1px 10px #242828,
 		2px 10px #3a5043,
-		3px 10px #4b692f,
-		4px 10px #4b692f,
-		5px 10px #4b692f,
-		6px 10px #4b692f,
-		7px 10px #4b692f,
-		8px 10px #4b692f,
+		3px 10px #446f55,
+		4px 10px #446f55,
+		5px 10px #446f55,
+		6px 10px #446f55,
+		7px 10px #446f55,
+		8px 10px #446f55,
 		9px 10px #7f9860,
 		10px 10px #242828,
 
 		2px 11px #242828,
 		3px 11px #3a5043,
-		4px 11px #4b692f,
-		5px 11px #4b692f,
-		6px 11px #4b692f,
-		7px 11px #4b692f,
+		4px 11px #446f55,
+		5px 11px #446f55,
+		6px 11px #446f55,
+		7px 11px #446f55,
 		8px 11px #7f9860,
 		9px 11px #242828,
 
@@ -210,7 +210,7 @@ body {
 
 /*
 outline #242828
-body #4b692f
+body #446f55
 highlight #7f9860
 shade #3a5043
 darkest eye & mouth #100f13
