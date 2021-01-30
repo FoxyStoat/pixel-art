@@ -1,0 +1,24 @@
+/* //// palette //// */
+/* outline #2e364d */
+/* base #7d95de*/
+/* shade #425d87*/
+/* hightlight #ddc8f9*/
+/* hightlight reflect #fbfef9 */
+body {
+  display: flex;
+  justify-content: center;
+  min-height: 100vmin;
+  background: #9badb7;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.bird {
+  margin-top: 6em;
+  width: 1em;
+  height: 1em;
+  background-color: #9badb7;
+  box-shadow: 1em 0 #2e364d, 2em 0 #2e364d, 3em 0 #2e364d, 4em 0 #2e364d, 0 1em #2e364d, 1em 1em #425d87, 2em 1em #ddc8f9, 3em 1em #ddc8f9, 4em 1em #ddc8f9, 5em 1em #2e364d, 0 2em #2e364d, 1em 2em #425d87, 2em 2em #7d95de, 3em 2em #425d87, 4em 2em #ddc8f9, 5em 2em #fbfef9, 6em 2em #2e364d, -1em 3em #2e364d, 0 3em #425d87, 1em 3em #7d95de, 2em 3em #7d95de, 3em 3em #ddc8f9, 4em 3em #ddc8f9, 5em 3em #ddc8f9, 6em 3em #fbfef9, 7em 3em #2e364d, -2em 4em #2e364d, -1em 4em #425d87, 0 4em #7d95de, 1em 4em #7d95de, 2em 4em #7d95de, 3em 4em #7d95de, 4em 4em #ddc8f9, 5em 4em #2e364d, 6em 4em #2e364d, -2em 5em #2e364d, -1em 5em #425d87, 0 5em #7d95de, 1em 5em #7d95de, 2em 5em #425d87, 3em 5em #ddc8f9, 4em 5em #2e364d, -3em 6em #2e364d, -2em 6em #425d87, -1em 6em #7d95de, 0 6em #7d95de, 1em 6em #fbfef9, 2em 6em #425d87, 3em 6em #ddc8f9, 4em 6em #fbfef9, 5em 6em #2e364d, -3em 7em #2e364d, -2em 7em #425d87, -1em 7em #7d95de, 0 7em #fbfef9, 1em 7em #ddc8f9, 2em 7em #425d87, 3em 7em #7d95de, 4em 7em #fbfef9, 5em 7em #2e364d, -4em 8em #2e364d, -3em 8em #425d87, -2em 8em #7d95de, -1em 8em #ddc8f9, 0 8em #ddc8f9, 1em 8em #425d87, 2em 8em #7d95de, 3em 8em #7d95de, 4em 8em #ddc8f9, 5em 8em #2e364d, -5em 9em #2e364d, -4em 9em #425d87, -3em 9em #7d95de, -2em 9em #ddc8f9, -1em 9em #7d95de, 0 9em #425d87, 1em 9em #7d95de, 2em 9em #7d95de, 3em 9em #ddc8f9, 4em 9em #2e364d, -7em 10em #425d87, -6em 10em #2e364d, -5em 10em #2e364d, -4em 10em #425d87, -3em 10em #425d87, -2em 10em #7d95de, -1em 10em #425d87, 0 10em #7d95de, 1em 10em #ddc8f9, 2em 10em #ddc8f9, 3em 10em #2e364d, -4em 11em #2e364d, -3em 11em #2e364d, -2em 11em #2e364d, -1em 11em #2e364d, 0 11em #2e364d, 1em 11em #2e364d, 2em 11em #2e364d, 3em 11em #2e364d, -3em 12em #2e364d, -2em 12em #425d87, 2em 12em #2e364d, 3em 12em #425d87, -2em 13em #2e364d, -1em 13em #7d95de, 3em 13em #2e364d, 4em 13em #7d95de;
+}
