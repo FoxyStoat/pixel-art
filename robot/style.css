@@ -1,0 +1,26 @@
+/* //// palette //// */
+/* base #41485d */
+/* shade #221e31 */
+/* hightlight #778e98 */
+/* hightlight reflect #c5dbd4 */
+/* red #c92e2e */
+/* background #d4bcab */
+
+body {
+  display: flex;
+  justify-content: center;
+  min-height: 100vmin;
+  background: #d4bcab;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.robot {
+  margin-top: 6em;
+  width: 1em;
+  height: 1em;
+  background-color: #d4bcab;
+  box-shadow: 1em 0 #d4bcab;
+}
