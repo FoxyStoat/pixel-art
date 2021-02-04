@@ -22,5 +22,84 @@ html {
   width: 1em;
   height: 1em;
   background-color: #d4bcab;
-  box-shadow: 1em 0 #d4bcab;
+  box-shadow:
+  1em 0#c5dbd4,
+  2em 0#778e98,
+  3em 0#778e98,
+
+  0 1em #c5dbd4,
+  1em 1em #778e98,
+  2em 1em #41485d,
+  3em 1em #41485d,
+  4em 1em#221e31,
+
+  -1em 2em#c92e2e,
+  0 2em#41485d,
+  1em 2em #c92e2e,
+  2em 2em#221e31,
+  3em 2em#41485d,
+  4em 2em#221e31,
+
+  0 3em#778e98,
+  1em 3em #41485d,
+  2em 3em#41485d,
+  3em 3em#41485d,
+  4em 3em#221e31,
+
+  0 4em#c5dbd4,
+  1em 4em #41485d,
+  2em 4em#41485d,
+  3em 4em#41485d,
+  4em 4em#221e31,
+
+  1em 5em#778e98,
+  2em 5em #41485d,
+  3em 5em#221e31,
+
+  2em 6em#221e31,
+
+  2em 7em #41485d,
+  6em 7em #c92e2e,
+
+  1em 8em#c5dbd4,
+  2em 8em #778e98,
+  3em 8em#221e31,
+  5em 8em#c92e2e,
+  7em 8em#c92e2e,
+
+  1em 9em#778e98,
+  2em 9em #41485d,
+  3em 9em#221e31,
+  5em 9em#c92e2e,
+  6em 9em#c92e2e,
+
+  -1em 10em#c5dbd4,
+  0 10em #778e98,
+  1em 10em#41485d,
+  2em 10em#41485d,
+  3em 10em#221e31,
+  4em 10em#c92e2e,
+  5em 10em#c92e2e,
+
+  1em 11em#221e31,
+  2em 11em#221e31,
+  3em 11em#221e31,
+  5em 11em#c92e2e,
+  6em 11em#c92e2e,
+
+  1em 12em#41485d,
+  2em 12em#221e31,
+  3em 12em#221e31,
+  5em 12em#c92e2e,
+  7em 12em#c92e2e,
+
+  2em 13em#221e31,
+  6em 13em#c92e2e,
+
+  2em 14em#41485d,
+
+  0 15em#c5dbd4,
+  1em 15em#778e98,
+  2em 15em#221e31,
+  3em 15em#221e31;
 }
