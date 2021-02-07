@@ -2,3 +2,23 @@
 /* blue #101323 *
 /* red #711919 */
 /* background #d6d4cb */
+
+body {
+  display: flex;
+  justify-content: center;
+  min-height: 100vmin;
+  background: #d6d4cb;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.zombie {
+  margin-top: 6em;
+  width: 1em;
+  height: 1em;
+  background-color:#101323;
+  box-shadow:
+  1em 0#101323;
+}
