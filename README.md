@@ -1,6 +1,6 @@
 # pixel-art
 
-![Screenshot of pixel art heart](/heart/heart.png "Screenshot pixel art heart") ![Screenshot of pixel art Jack Skellington](/jack-skellington/jack.png "Screenshot pixel art Jack Skellington") ![Screenshot of pixel art rotten angry Egg](/rotten-egg/rotten-dizzy-egg.png "Screenshot pixel art Jack Skellington") ![Screenshot of pixel art bird](/bird/bird.png "Screenshot pixel art bird") ![Screenshot of pixel art robot](/robot/robot.png "Screenshot pixel art robot")
+![Screenshot of pixel art heart](/heart/heart.png "Screenshot pixel art heart") ![Screenshot of pixel art Jack Skellington](/jack-skellington/jack.png "Screenshot pixel art Jack Skellington") ![Screenshot of pixel art rotten angry Egg](/rotten-egg/rotten-dizzy-egg.png "Screenshot pixel art Jack Skellington") ![Screenshot of pixel art bird](/bird/bird.png "Screenshot pixel art bird") ![Screenshot of pixel art robot](/robot/robot.png "Screenshot pixel art robot") ![Screenshot of pixel art zombie](/blue-zombie/zombie.png "Screenshot pixel art zombie")
 
 Recently I have been learning to draw with just HTML and CSS to express my creativity and practice my CSS skills to keep them sharp.  It has led me to find out about using the ```box-shadow``` property to create images and pixel art.
 
