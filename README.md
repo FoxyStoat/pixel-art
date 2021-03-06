@@ -9,7 +9,9 @@ I've always had a love of pixel art, and this year 2021, I have decided to chall
 
 I will be using a mix of the ```box-shadow``` property and HTML ```<canvas>``` element, this will allow me to try different ways of creating.  This challenge will also allow me to practice animation.
 
-The Rotten egg - inspiration taken from Dizzy video game, created by the Oliver Twins.  I used to play Dizzy as a kid and thought I would try and pixel art him, but instead, I turned him rotten and angry.  The rotten egg is my third attempt of pixel art to CSS.  Still need a lot of practice with shading, highlighting and hue shifting, but I love pixel art and enjoying the process.
+The Rotten egg - inspiration taken from Dizzy video game, created by the Oliver Twins.  I used to play Dizzy as a kid and thought I would try and pixel art the egg, but instead, I turned him rotten and angry.  The rotten egg is my third attempt of pixel art to CSS.  Still need a lot of practice with shading, highlighting and hue shifting, but I love pixel art and enjoying the process.
+
+The yellow-gem is a different size to the others, 40px x 40px, I also had a go at creating a sprite-sheet, the animation was created with Aseprite and exported as a gif.
 
 Images are made 16px x 16px but the exported png are resized at 300% (48px) and 1000% (160px) for display purposes.
 
