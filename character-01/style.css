@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  justify-content: center;
+  min-height: 100vmin;
+	background: #9badb7;
+}
+
+html {
+	font-size: 62.5%; /*one Em roughly ten pixels (16 x 62.5% = 10)*/
+}
+
+.char-01 {
+  margin-top: 6em;
+  background-color: #0E121B;
+  width: 5px;
+  height: 5px;
+  box-shadow: 0px 0px 0 #0E121B;
+}
