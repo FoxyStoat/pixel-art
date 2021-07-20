@@ -11,7 +11,7 @@ I will be using a mix of the ```box-shadow``` property and HTML ```<canvas>``` e
 
 The Rotten egg - inspiration taken from Dizzy video game, created by the Oliver Twins.  I used to play Dizzy as a kid and thought I would try and pixel art the egg, but instead, I turned him rotten and angry.  The rotten egg is my third attempt of pixel art to CSS.  Still need a lot of practice with shading, highlighting and hue shifting, but I love pixel art and enjoying the process.
 
-The yellow-gem, Nikola Tesla and purple hair character are a different size to the others, 40px x 40px. I also had a go at creating a sprite-sheet for the yellow gem, and the use of keyframes for the animations.
+The yellow-gem, Nikola Tesla and purple hair character are a different size to the others, 40px x 40px. I also had a go at creating a sprite-sheet for the yellow gem, and the use of ```@keyframes``` for the animations.
 
 Images made 16px x 16px exported png are resized at 300% (48px) and 1000% (160px) and images made 40px x 40px are exported at 100% (40px) and 400% (160px) for display purposes.
 
