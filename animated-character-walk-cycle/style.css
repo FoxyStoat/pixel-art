@@ -1,17 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
 body {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   min-height: 100vmin;
-	background: #fff;
+	background: rgb(182, 206, 255);
 }
 
 html {
 	font-size: 62.5%; /*one Em roughly ten pixels (16 x 62.5% = 10)*/
+  font-family: 'Crimson Text', serif;
 }
 
 .walk-cycle {
-  margin-top: 6em;
-  background-color: #fff;
+  align-self: center;
+  margin-top: 8em;
+  margin-left: -160px;
+  background-color: rgb(182, 206, 255);
   width: 4px;
   height: 4px;
   animation: walk 1s steps(1) infinite;
