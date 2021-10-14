@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  min-height: 100vmin;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.egon {
+  margin-top: 6em;
+  width: 4px;
+  height: 4px;
+  background-color:#174b8f;
+  box-shadow:#174b8f;
+}
