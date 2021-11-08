@@ -7,11 +7,9 @@ Recently I have been learning to draw with just HTML and CSS to express my creat
 
 I've always had a love of pixel art, and this year 2021, I have decided to challenge myself to create some artwork.  Let's see how I improve.
 
-I will be using the ```box-shadow``` property and HTML ```<canvas>``` element, this will allow me to try different ways of creating.  This challenge will also allow me to practice animation.
+I will be using the ```box-shadow``` property for this challenge and for the animations the use the ```@keyframes``` .
 
 The Rotten egg - inspiration taken from Dizzy video game, created by the Oliver Twins.  I used to play Dizzy as a kid and thought I would try and pixel art the egg, but instead, I turned him rotten and angry.  The rotten egg is my third attempt of pixel art to CSS.  Still need a lot of practice with shading, highlighting and hue shifting, but I love pixel art and enjoying the process.
-
-Sprite-sheets for some of the pixel art use the ```@keyframes``` for the animations.
 
 For display purposes I have exported the art at different percentages, so they are not to small to see.
 
