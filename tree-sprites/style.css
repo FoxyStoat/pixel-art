@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  justify-content: space-around;
+  min-height: 100vmin;
+	background: #fff;
+	margin-right: 80px;
+}
+
+html {
+	font-size: 62.5%; /*one Em roughly ten pixels (16 x 62.5% = 10)*/
+}
+
+.tree {
+  margin-top: 6em;
+  background-color: #fff;
+  width: 4px;
+  height: 4px;
+}
